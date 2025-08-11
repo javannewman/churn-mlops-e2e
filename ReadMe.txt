@@ -1,4 +1,4 @@
-# 🛠️ Customer Churn Prediction — End-to-End MLOps Project
+# **Customer Churn Prediction - End-to-End MLOps Project**
 
 ## 📌 Project Overview
 This project demonstrates a **full MLOps pipeline** for predicting customer churn using synthetic telecom customer data.  
@@ -15,7 +15,7 @@ Recruiters and hiring managers can see **hands-on, production-style MLOps skills
 ✔️ Model packaging & deployment (FastAPI API service)  
 ✔️ Model monitoring & drift detection (Evidently AI)  
 ✔️ Automated retraining triggered by drift  
-✔️ Optional containerization with Docker for API deployment
+✔️ Optional containerization with Docker for API deployment  
 
 ---
 
