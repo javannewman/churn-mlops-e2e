@@ -4,7 +4,7 @@
 This project shows Mlops pipeline predicting customer attrition using sample telecom customer data
 
 ##  Architecture
-<img width="188" height="593" alt="Image" src="https://github.com/user-attachments/assets/7c5f3a81-b86e-4368-8009-1d2c26cf984e" />
+<img width="989" height="491" alt="Image" src="https://github.com/user-attachments/assets/71c854fa-4df5-4557-9aaf-25ed224eec70" />
 
 # Project Structure
 <img width="287" height="466" alt="Image" src="https://github.com/user-attachments/assets/e78ec759-a6f6-4e41-9dae-d47167ef5000" />
