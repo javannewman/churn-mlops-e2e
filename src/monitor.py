@@ -51,4 +51,4 @@ if __name__ == "__main__":
         ret = subprocess.call([sys.executable, "src/retrain.py"])
         sys.exit(ret)
     else:
-        print("✅ Drift within acceptable range; no action.")
+        print("Drift within acceptable range; no action.")
