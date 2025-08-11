@@ -1,4 +1,4 @@
-# **Customer Churn Prediction - End-to-End MLOps Project**
+# **Customer Churn Prediction** - End-to-End MLOps Project
 
 ## 📌 Project Overview
 This project demonstrates a **full MLOps pipeline** for predicting customer churn using synthetic telecom customer data.  
